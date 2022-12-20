@@ -47,8 +47,8 @@ print(name_short)
 
 #5
 first_name_len = len(first_name)
-chant = f"{first_name}! " *first_name_len #hier is laatste karakter een space
-chant = chant[:-1] #laatste space eraf slicen
+chant = f"{first_name}! " *first_name_len 
+chant = chant[:-1]
 print(chant)
 
 #6
