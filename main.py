@@ -56,6 +56,7 @@ last_character = chant[-1]
 good_chant = last_character != " "
 print(good_chant)
 
+#extra
 if chant[-1] != " ":
   print("The last character of chant is NOT a space")
 
